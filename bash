@@ -15,3 +15,15 @@ backend/
 ├─ .env
 ├─ requirements.txt
 └─ alembic/  (opcional se usar migrations)
+
+frontend/
+├─ package.json
+├─ index.html
+├─ src/
+│  ├─ main.jsx
+│  ├─ App.jsx
+│  ├─ pages/
+│  │   ├─ Dashboard.jsx
+│  │   └─ Scanner.jsx
+│  └─ services/
+│      └─ api.js
