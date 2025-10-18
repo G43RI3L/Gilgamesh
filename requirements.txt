@@ -1,0 +1,12 @@
+css
+
+
+fastapi
+uvicorn[standard]
+sqlmodel
+qrcode
+Pillow
+python-dotenv
+httpx
+openai
+html5lib
