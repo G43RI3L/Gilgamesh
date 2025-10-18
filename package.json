@@ -1,0 +1,18 @@
+{
+  "name": "estoque-saas-frontend",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "html5-qrcode": "^2.3.5"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
