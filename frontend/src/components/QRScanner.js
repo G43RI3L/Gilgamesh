@@ -1,4 +1,4 @@
-import { QrReader } from 'react-qr-reader';
+import { QrReader } from 'react-qr-reader-es6';
 import React, { useState } from 'react';
 
 export default function QRScanner({ onScan }) {
